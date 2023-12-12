@@ -15,4 +15,6 @@ errores= {
 #print(errores["error"])
 
 prueba= "rolando"
-print(  prueba.upper() )
+#print(  prueba.upper() )
+
+print(prueba.isalpha())#True
